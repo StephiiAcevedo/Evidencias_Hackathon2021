@@ -1,1 +1,4 @@
-body {background-image:url("/INICIO/fondosss.jpeg");}
+body {
+    background-image: url("INICIO/fondosss.jpeg");
+    background-color: blue;
+}
